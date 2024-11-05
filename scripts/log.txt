@@ -1,0 +1,3 @@
+[2024-11-05 18:40:31] Table 'users' created successfully!<br>
+[2024-11-05 18:40:31] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'users.email'
+[2024-11-05 18:40:31] News post created successfully!

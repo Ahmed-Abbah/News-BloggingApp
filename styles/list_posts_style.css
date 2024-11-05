@@ -1,0 +1,75 @@
+.container {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.posts-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.posts-table thead {
+    background-color: #0073e6;
+    color: #fff;
+}
+
+.posts-table th, .posts-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.posts-table th {
+    font-weight: 600;
+}
+
+.posts-table tr:hover {
+    background-color: #f1f1f1;
+}
+
+.posts-table .post-content {
+    max-width: 400px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.actions a {
+    padding: 6px 12px;
+    margin-right: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.btn-edit {
+    background-color: #4CAF50;
+}
+
+.btn-delete {
+    background-color: #f44336;
+}
+
+.actions a:hover {
+    opacity: 0.8;
+}
+
+.no-posts {
+    color: #666;
+    font-size: 16px;
+    text-align: center;
+}
