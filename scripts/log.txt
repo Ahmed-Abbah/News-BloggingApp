@@ -1,3 +1,300 @@
 [2024-11-05 18:40:31] Table 'users' created successfully!<br>
 [2024-11-05 18:40:31] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'users.email'
 [2024-11-05 18:40:31] News post created successfully!
+[2024-11-05 20:08:59] Table 'users' created successfully!<br>
+[2024-11-05 20:08:59] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'users.email'
+[2024-11-05 20:08:59] New post created successfully!
+[2024-11-05 20:27:11] Table 'users' created successfully!<br>
+[2024-11-05 20:27:11] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'users.email'
+[2024-11-05 20:27:11] New post created successfully!
+[2024-11-06 16:33:04] Table 'users' created successfully!<br>
+[2024-11-06 16:33:04] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin@admin.com' for key 'users.email'
+[2024-11-06 16:33:04] New post created successfully!
+[2024-11-06 18:24:37] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:24:37] Database created successfully!<br>
+[2024-11-06 18:24:38] Table 'users' created successfully!<br>
+[2024-11-06 18:24:38] Root user created successfully!<br>
+[2024-11-06 18:24:38] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:24:38] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'NewsManagement.categories' doesn't exist
+[2024-11-06 18:29:37] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:29:37] Database created successfully!<br>
+[2024-11-06 18:29:37] Table 'users' created successfully!<br>
+[2024-11-06 18:29:37] Root user created successfully!<br>
+[2024-11-06 18:29:37] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:29:37] Error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'NewsManagement.categories' doesn't exist
+[2024-11-06 18:30:37] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:30:37] Database created successfully!<br>
+[2024-11-06 18:30:37] Table 'users' created successfully!<br>
+[2024-11-06 18:30:37] Root user created successfully!<br>
+[2024-11-06 18:30:37] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:30:43] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:30:43] Database created successfully!<br>
+[2024-11-06 18:30:43] Table 'users' created successfully!<br>
+[2024-11-06 18:30:43] Root user created successfully!<br>
+[2024-11-06 18:30:43] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:31:10] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:31:10] Database created successfully!<br>
+[2024-11-06 18:31:10] Table 'users' created successfully!<br>
+[2024-11-06 18:31:10] Root user created successfully!<br>
+[2024-11-06 18:31:10] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:31:11] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:31:11] Database created successfully!<br>
+[2024-11-06 18:31:12] Table 'users' created successfully!<br>
+[2024-11-06 18:31:12] Root user created successfully!<br>
+[2024-11-06 18:31:12] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:31:13] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:31:13] Database created successfully!<br>
+[2024-11-06 18:31:14] Table 'users' created successfully!<br>
+[2024-11-06 18:31:14] Root user created successfully!<br>
+[2024-11-06 18:31:14] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:31:32] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:31:32] Database created successfully!<br>
+[2024-11-06 18:31:32] Table 'users' created successfully!<br>
+[2024-11-06 18:31:32] Root user created successfully!<br>
+[2024-11-06 18:31:32] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:31:33] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:31:33] Database created successfully!<br>
+[2024-11-06 18:31:33] Table 'users' created successfully!<br>
+[2024-11-06 18:31:33] Root user created successfully!<br>
+[2024-11-06 18:31:33] Error: SQLSTATE[HY000]: General error: 1824 Failed to open the referenced table 'categories'
+[2024-11-06 18:35:56] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:35:56] Database created successfully!<br>
+[2024-11-06 18:35:56] Table 'users' created successfully!<br>
+[2024-11-06 18:35:56] Root user created successfully!<br>
+[2024-11-06 18:35:56] Table 'Categories' created successfully!<br>
+[2024-11-06 18:35:57] Table 'posts' created successfully!<br>
+[2024-11-06 18:36:46] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:36:46] Database created successfully!<br>
+[2024-11-06 18:36:46] Table 'users' created successfully!<br>
+[2024-11-06 18:36:46] Root user created successfully!<br>
+[2024-11-06 18:36:46] Table 'Categories' created successfully!<br>
+[2024-11-06 18:36:46] Table 'posts' created successfully!<br>
+[2024-11-06 18:36:46] Error: SQLSTATE[HY000]: General error: 1364 Field 'slug' doesn't have a default value
+[2024-11-06 18:38:24] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:38:24] Database created successfully!<br>
+[2024-11-06 18:38:24] Table 'users' created successfully!<br>
+[2024-11-06 18:38:24] Root user created successfully!<br>
+[2024-11-06 18:38:24] Table 'Categories' created successfully!<br>
+[2024-11-06 18:38:24] Table 'posts' created successfully!<br>
+[2024-11-06 18:38:24] Error: SQLSTATE[HY000]: General error: 1364 Field 'slug' doesn't have a default value
+[2024-11-06 18:38:42] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:38:42] Database created successfully!<br>
+[2024-11-06 18:38:42] Table 'users' created successfully!<br>
+[2024-11-06 18:38:42] Root user created successfully!<br>
+[2024-11-06 18:38:42] Table 'Categories' created successfully!<br>
+[2024-11-06 18:38:42] Table 'posts' created successfully!<br>
+[2024-11-06 18:38:42] Error: SQLSTATE[HY000]: General error: 1364 Field 'slug' doesn't have a default value
+[2024-11-06 18:39:37] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:39:37] Database created successfully!<br>
+[2024-11-06 18:39:37] Table 'users' created successfully!<br>
+[2024-11-06 18:39:37] Root user created successfully!<br>
+[2024-11-06 18:39:37] Table 'Categories' created successfully!<br>
+[2024-11-06 18:39:37] Table 'posts' created successfully!<br>
+[2024-11-06 18:39:37] New post created successfully!
+[2024-11-06 18:40:06] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:40:06] Database created successfully!<br>
+[2024-11-06 18:40:06] Table 'users' created successfully!<br>
+[2024-11-06 18:40:06] Root user created successfully!<br>
+[2024-11-06 18:40:06] Table 'Categories' created successfully!<br>
+[2024-11-06 18:40:06] Table 'posts' created successfully!<br>
+[2024-11-06 18:40:28] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 18:40:28] Database created successfully!<br>
+[2024-11-06 18:40:28] Table 'users' created successfully!<br>
+[2024-11-06 18:40:28] Root user created successfully!<br>
+[2024-11-06 18:40:28] Table 'Categories' created successfully!<br>
+[2024-11-06 18:40:28] Table 'posts' created successfully!<br>
+[2024-11-06 18:40:28] New post created successfully!
+[2024-11-06 20:17:50] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:17:50] Database created successfully!<br>
+[2024-11-06 20:17:50] Table 'users' created successfully!<br>
+[2024-11-06 20:17:50] Root user created successfully!<br>
+[2024-11-06 20:17:50] Table 'Categories' created successfully!<br>
+[2024-11-06 20:17:50] Table 'posts' created successfully!<br>
+[2024-11-06 20:20:14] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:20:14] Database created successfully!<br>
+[2024-11-06 20:20:14] Table 'users' created successfully!<br>
+[2024-11-06 20:20:14] Root user created successfully!<br>
+[2024-11-06 20:20:14] Table 'Categories' created successfully!<br>
+[2024-11-06 20:20:14] Table 'posts' created successfully!<br>
+[2024-11-06 20:20:14] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:21:44] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:21:44] Database created successfully!<br>
+[2024-11-06 20:21:44] Table 'users' created successfully!<br>
+[2024-11-06 20:21:44] Root user created successfully!<br>
+[2024-11-06 20:21:44] Table 'Categories' created successfully!<br>
+[2024-11-06 20:21:44] Table 'posts' created successfully!<br>
+[2024-11-06 20:21:44] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:21:50] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:21:50] Database created successfully!<br>
+[2024-11-06 20:21:50] Table 'users' created successfully!<br>
+[2024-11-06 20:21:50] Root user created successfully!<br>
+[2024-11-06 20:21:51] Table 'Categories' created successfully!<br>
+[2024-11-06 20:21:51] Table 'posts' created successfully!<br>
+[2024-11-06 20:21:51] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:22:23] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:22:23] Database created successfully!<br>
+[2024-11-06 20:22:23] Table 'users' created successfully!<br>
+[2024-11-06 20:22:23] Root user created successfully!<br>
+[2024-11-06 20:22:24] Table 'Categories' created successfully!<br>
+[2024-11-06 20:22:24] Table 'posts' created successfully!<br>
+[2024-11-06 20:22:24] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:25:12] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:25:12] Database created successfully!<br>
+[2024-11-06 20:25:12] Table 'users' created successfully!<br>
+[2024-11-06 20:25:12] Root user created successfully!<br>
+[2024-11-06 20:25:12] Table 'Categories' created successfully!<br>
+[2024-11-06 20:25:12] Table 'posts' created successfully!<br>
+[2024-11-06 20:25:12] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:25:49] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:25:49] Database created successfully!<br>
+[2024-11-06 20:25:49] Table 'users' created successfully!<br>
+[2024-11-06 20:25:49] Root user created successfully!<br>
+[2024-11-06 20:25:50] Table 'Categories' created successfully!<br>
+[2024-11-06 20:25:50] Table 'posts' created successfully!<br>
+[2024-11-06 20:26:07] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:26:07] Database created successfully!<br>
+[2024-11-06 20:26:07] Table 'users' created successfully!<br>
+[2024-11-06 20:26:07] Root user created successfully!<br>
+[2024-11-06 20:26:07] Table 'Categories' created successfully!<br>
+[2024-11-06 20:26:07] Table 'posts' created successfully!<br>
+[2024-11-06 20:26:07] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:26:11] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:26:11] Database created successfully!<br>
+[2024-11-06 20:26:12] Table 'users' created successfully!<br>
+[2024-11-06 20:26:12] Root user created successfully!<br>
+[2024-11-06 20:26:12] Table 'Categories' created successfully!<br>
+[2024-11-06 20:26:12] Table 'posts' created successfully!<br>
+[2024-11-06 20:26:12] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:26:47] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:26:47] Database created successfully!<br>
+[2024-11-06 20:26:47] Table 'users' created successfully!<br>
+[2024-11-06 20:26:47] Root user created successfully!<br>
+[2024-11-06 20:26:48] Table 'Categories' created successfully!<br>
+[2024-11-06 20:26:48] Table 'posts' created successfully!<br>
+[2024-11-06 20:26:48] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:27:05] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:27:05] Database created successfully!<br>
+[2024-11-06 20:27:05] Table 'users' created successfully!<br>
+[2024-11-06 20:27:05] Root user created successfully!<br>
+[2024-11-06 20:27:05] Table 'Categories' created successfully!<br>
+[2024-11-06 20:27:05] Table 'posts' created successfully!<br>
+[2024-11-06 20:27:05] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:28:49] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:28:49] Database created successfully!<br>
+[2024-11-06 20:28:49] Table 'users' created successfully!<br>
+[2024-11-06 20:28:49] Root user created successfully!<br>
+[2024-11-06 20:28:49] Table 'Categories' created successfully!<br>
+[2024-11-06 20:28:49] Table 'posts' created successfully!<br>
+[2024-11-06 20:28:49] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:36:01] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:36:01] Database created successfully!<br>
+[2024-11-06 20:36:01] Table 'users' created successfully!<br>
+[2024-11-06 20:36:02] Root user created successfully!<br>
+[2024-11-06 20:36:02] Table 'Categories' created successfully!<br>
+[2024-11-06 20:36:02] Table 'posts' created successfully!<br>
+[2024-11-06 20:36:02] Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','uploads/2024_11_06/20_36_02image2024_11_06.jpeg','en', '1', '0', '1', '1')' at line 2
+[2024-11-06 20:36:06] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:36:06] Database created successfully!<br>
+[2024-11-06 20:36:06] Table 'users' created successfully!<br>
+[2024-11-06 20:36:06] Root user created successfully!<br>
+[2024-11-06 20:36:06] Table 'Categories' created successfully!<br>
+[2024-11-06 20:36:06] Table 'posts' created successfully!<br>
+[2024-11-06 20:36:06] Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ','uploads/2024_11_06/20_36_06image2024_11_06.jpeg','en', '1', '0', '1', '1')' at line 2
+[2024-11-06 20:36:26] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:36:26] Database created successfully!<br>
+[2024-11-06 20:36:26] Table 'users' created successfully!<br>
+[2024-11-06 20:36:26] Root user created successfully!<br>
+[2024-11-06 20:36:26] Table 'Categories' created successfully!<br>
+[2024-11-06 20:36:26] Table 'posts' created successfully!<br>
+[2024-11-06 20:36:26] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:36:46] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:36:46] Database created successfully!<br>
+[2024-11-06 20:36:46] Table 'users' created successfully!<br>
+[2024-11-06 20:36:46] Root user created successfully!<br>
+[2024-11-06 20:36:46] Table 'Categories' created successfully!<br>
+[2024-11-06 20:36:47] Table 'posts' created successfully!<br>
+[2024-11-06 20:36:47] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:38:41] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:38:41] Database created successfully!<br>
+[2024-11-06 20:38:41] Table 'users' created successfully!<br>
+[2024-11-06 20:38:41] Root user created successfully!<br>
+[2024-11-06 20:38:41] Table 'Categories' created successfully!<br>
+[2024-11-06 20:38:42] Table 'posts' created successfully!<br>
+[2024-11-06 20:38:42] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:38:53] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:38:53] Database created successfully!<br>
+[2024-11-06 20:38:53] Table 'users' created successfully!<br>
+[2024-11-06 20:38:53] Root user created successfully!<br>
+[2024-11-06 20:38:53] Table 'Categories' created successfully!<br>
+[2024-11-06 20:38:53] Table 'posts' created successfully!<br>
+[2024-11-06 20:38:53] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:39:00] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:39:00] Database created successfully!<br>
+[2024-11-06 20:39:00] Table 'users' created successfully!<br>
+[2024-11-06 20:39:00] Root user created successfully!<br>
+[2024-11-06 20:39:01] Table 'Categories' created successfully!<br>
+[2024-11-06 20:39:01] Table 'posts' created successfully!<br>
+[2024-11-06 20:39:01] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:39:21] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:39:21] Database created successfully!<br>
+[2024-11-06 20:39:21] Table 'users' created successfully!<br>
+[2024-11-06 20:39:21] Root user created successfully!<br>
+[2024-11-06 20:39:21] Table 'Categories' created successfully!<br>
+[2024-11-06 20:39:22] Table 'posts' created successfully!<br>
+[2024-11-06 20:39:22] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:39:25] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:39:25] Database created successfully!<br>
+[2024-11-06 20:39:25] Table 'users' created successfully!<br>
+[2024-11-06 20:39:25] Root user created successfully!<br>
+[2024-11-06 20:39:25] Table 'Categories' created successfully!<br>
+[2024-11-06 20:39:25] Table 'posts' created successfully!<br>
+[2024-11-06 20:39:25] Error: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[2024-11-06 20:43:18] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:43:18] Database created successfully!<br>
+[2024-11-06 20:43:18] Table 'users' created successfully!<br>
+[2024-11-06 20:43:18] Root user created successfully!<br>
+[2024-11-06 20:43:19] Table 'Categories' created successfully!<br>
+[2024-11-06 20:43:19] Table 'posts' created successfully!<br>
+[2024-11-06 20:43:19] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:50:46] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:50:46] Database created successfully!<br>
+[2024-11-06 20:50:46] Table 'users' created successfully!<br>
+[2024-11-06 20:50:46] Root user created successfully!<br>
+[2024-11-06 20:50:46] Table 'Categories' created successfully!<br>
+[2024-11-06 20:50:46] Table 'posts' created successfully!<br>
+[2024-11-06 20:50:46] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 20:52:50] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 20:52:50] Database created successfully!<br>
+[2024-11-06 20:52:50] Table 'users' created successfully!<br>
+[2024-11-06 20:52:50] Root user created successfully!<br>
+[2024-11-06 20:52:51] Table 'Categories' created successfully!<br>
+[2024-11-06 20:52:51] Table 'posts' created successfully!<br>
+[2024-11-06 20:52:51] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 22:59:33] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 22:59:33] Database created successfully!<br>
+[2024-11-06 22:59:33] Table 'users' created successfully!<br>
+[2024-11-06 22:59:33] Root user created successfully!<br>
+[2024-11-06 22:59:33] Table 'Categories' created successfully!<br>
+[2024-11-06 22:59:34] Table 'posts' created successfully!<br>
+[2024-11-06 23:00:09] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 23:00:09] Database created successfully!<br>
+[2024-11-06 23:00:10] Table 'users' created successfully!<br>
+[2024-11-06 23:00:10] Root user created successfully!<br>
+[2024-11-06 23:00:10] Table 'Categories' created successfully!<br>
+[2024-11-06 23:00:10] Table 'posts' created successfully!<br>
+[2024-11-06 23:00:10] created image for a post under name : uploads/posts/23_00_10image2024_11_06.png
+[2024-11-06 23:00:10] Error: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[2024-11-06 23:00:58] Database 'NewsManagement' dropped successfully!<br>
+[2024-11-06 23:00:58] Database created successfully!<br>
+[2024-11-06 23:00:58] Table 'users' created successfully!<br>
+[2024-11-06 23:00:59] Root user created successfully!<br>
+[2024-11-06 23:00:59] Table 'Categories' created successfully!<br>
+[2024-11-06 23:00:59] Table 'posts' created successfully!<br>
+[2024-11-06 23:00:59] created image for a post under name : uploads/posts/23_00_59image2024_11_06.png
+[2024-11-06 23:00:59] New post created successfully!
+[2024-11-06 23:13:09] Connected successfully!
+[2024-11-06 23:13:09] created image for a post under name : uploads/posts/23_13_09image2024_11_06.png
+[2024-11-06 23:13:09] Error: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Test' for key 'categories.name'
+[2024-11-06 23:17:37] Connected successfully!
+[2024-11-06 23:17:38] created image for a post under name : uploads/posts/23_17_38image2024_11_06.png
+[2024-11-06 23:17:38] New post created successfully!

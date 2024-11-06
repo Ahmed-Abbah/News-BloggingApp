@@ -23,7 +23,8 @@
         <link href="../css/style.css" rel="stylesheet">
     </head>
 
-    <body></body>
+    <body>
+        <div class="container">
         <!-- Top Bar Start -->
         <div class="top-bar">
             <div class="container">
@@ -110,3 +111,4 @@
             </div>
         </div>
         <!-- Nav Bar End -->
+         

@@ -62,3 +62,251 @@
 [2024-11-05 18:37:53] Fetched 4 posts successfully!
 [2024-11-05 18:38:18] Connected successfully!
 [2024-11-05 18:38:18] Fetched 4 posts successfully!
+[2024-11-05 19:35:07] Connected successfully!
+[2024-11-05 19:35:07] Fetched 8 posts successfully!
+[2024-11-05 19:41:11] Connected successfully!
+[2024-11-05 19:41:11] Fetched 8 posts successfully!
+[2024-11-05 19:41:37] Connected successfully!
+[2024-11-05 19:41:37] Fetched 8 posts successfully!
+[2024-11-05 19:41:54] Connected successfully!
+[2024-11-05 19:41:54] Fetched 8 posts successfully!
+[2024-11-05 19:41:55] Connected successfully!
+[2024-11-05 19:41:55] Fetched 8 posts successfully!
+[2024-11-05 19:42:37] Connected successfully!
+[2024-11-05 19:42:37] Fetched 8 posts successfully!
+[2024-11-05 19:43:05] Connected successfully!
+[2024-11-05 19:43:05] Fetched 8 posts successfully!
+[2024-11-05 19:43:30] Connected successfully!
+[2024-11-05 19:43:30] Fetched 8 posts successfully!
+[2024-11-05 19:44:00] Connected successfully!
+[2024-11-05 19:44:00] Fetched 8 posts successfully!
+[2024-11-05 19:44:00] Connected successfully!
+[2024-11-05 19:44:00] Fetched 8 posts successfully!
+[2024-11-05 19:44:01] Connected successfully!
+[2024-11-05 19:44:01] Fetched 8 posts successfully!
+[2024-11-05 19:44:01] Connected successfully!
+[2024-11-05 19:44:01] Fetched 8 posts successfully!
+[2024-11-05 19:44:16] Connected successfully!
+[2024-11-05 19:44:16] Fetched 8 posts successfully!
+[2024-11-05 19:44:25] Connected successfully!
+[2024-11-05 19:44:25] Fetched 8 posts successfully!
+[2024-11-05 19:44:25] Connected successfully!
+[2024-11-05 19:44:25] Fetched 8 posts successfully!
+[2024-11-05 19:44:25] Connected successfully!
+[2024-11-05 19:44:25] Fetched 8 posts successfully!
+[2024-11-05 19:44:26] Connected successfully!
+[2024-11-05 19:44:26] Fetched 8 posts successfully!
+[2024-11-05 19:44:26] Connected successfully!
+[2024-11-05 19:44:26] Fetched 8 posts successfully!
+[2024-11-05 19:44:26] Connected successfully!
+[2024-11-05 19:44:26] Fetched 8 posts successfully!
+[2024-11-05 19:44:26] Connected successfully!
+[2024-11-05 19:44:26] Fetched 8 posts successfully!
+[2024-11-05 19:44:27] Connected successfully!
+[2024-11-05 19:44:27] Fetched 8 posts successfully!
+[2024-11-05 19:44:28] Connected successfully!
+[2024-11-05 19:44:28] Fetched 8 posts successfully!
+[2024-11-05 19:44:34] Connected successfully!
+[2024-11-05 19:44:34] Fetched 8 posts successfully!
+[2024-11-05 19:44:35] Connected successfully!
+[2024-11-05 19:44:35] Fetched 8 posts successfully!
+[2024-11-05 19:44:35] Connected successfully!
+[2024-11-05 19:44:35] Fetched 8 posts successfully!
+[2024-11-05 19:44:36] Connected successfully!
+[2024-11-05 19:44:36] Fetched 8 posts successfully!
+[2024-11-05 19:45:00] Connected successfully!
+[2024-11-05 19:45:00] Fetched 8 posts successfully!
+[2024-11-05 19:45:01] Connected successfully!
+[2024-11-05 19:45:01] Fetched 8 posts successfully!
+[2024-11-05 19:45:07] Connected successfully!
+[2024-11-05 19:45:07] Fetched 8 posts successfully!
+[2024-11-05 19:45:08] Connected successfully!
+[2024-11-05 19:45:08] Fetched 8 posts successfully!
+[2024-11-05 19:45:14] Connected successfully!
+[2024-11-05 19:45:14] Fetched 8 posts successfully!
+[2024-11-05 19:45:15] Connected successfully!
+[2024-11-05 19:45:15] Fetched 8 posts successfully!
+[2024-11-05 19:45:15] Connected successfully!
+[2024-11-05 19:45:15] Fetched 8 posts successfully!
+[2024-11-05 19:45:15] Connected successfully!
+[2024-11-05 19:45:15] Fetched 8 posts successfully!
+[2024-11-05 19:45:15] Connected successfully!
+[2024-11-05 19:45:15] Fetched 8 posts successfully!
+[2024-11-05 19:45:16] Connected successfully!
+[2024-11-05 19:45:16] Fetched 8 posts successfully!
+[2024-11-05 19:45:16] Connected successfully!
+[2024-11-05 19:45:16] Fetched 8 posts successfully!
+[2024-11-05 19:45:16] Connected successfully!
+[2024-11-05 19:45:16] Fetched 8 posts successfully!
+[2024-11-05 19:45:42] Connected successfully!
+[2024-11-05 19:45:42] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:43] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:43] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:43] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:43] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:43] Fetched 8 posts successfully!
+[2024-11-05 19:45:43] Connected successfully!
+[2024-11-05 19:45:44] Fetched 8 posts successfully!
+[2024-11-05 19:46:29] Connected successfully!
+[2024-11-05 19:46:29] Fetched 8 posts successfully!
+[2024-11-05 19:46:30] Connected successfully!
+[2024-11-05 19:46:30] Fetched 8 posts successfully!
+[2024-11-05 19:46:30] Connected successfully!
+[2024-11-05 19:46:30] Fetched 8 posts successfully!
+[2024-11-05 19:46:33] Connected successfully!
+[2024-11-05 19:46:33] Fetched 8 posts successfully!
+[2024-11-05 19:46:35] Connected successfully!
+[2024-11-05 19:46:35] Fetched 8 posts successfully!
+[2024-11-05 19:46:42] Connected successfully!
+[2024-11-05 19:46:42] Fetched 8 posts successfully!
+[2024-11-05 19:47:01] Connected successfully!
+[2024-11-05 19:47:01] Fetched 8 posts successfully!
+[2024-11-05 19:47:02] Connected successfully!
+[2024-11-05 19:47:02] Fetched 8 posts successfully!
+[2024-11-05 19:47:02] Connected successfully!
+[2024-11-05 19:47:02] Fetched 8 posts successfully!
+[2024-11-05 19:47:03] Connected successfully!
+[2024-11-05 19:47:03] Fetched 8 posts successfully!
+[2024-11-05 19:47:03] Connected successfully!
+[2024-11-05 19:47:03] Fetched 8 posts successfully!
+[2024-11-05 19:47:03] Connected successfully!
+[2024-11-05 19:47:03] Fetched 8 posts successfully!
+[2024-11-05 19:47:03] Connected successfully!
+[2024-11-05 19:47:03] Fetched 8 posts successfully!
+[2024-11-05 19:47:04] Connected successfully!
+[2024-11-05 19:47:04] Fetched 8 posts successfully!
+[2024-11-05 19:47:22] Connected successfully!
+[2024-11-05 19:47:23] Fetched 8 posts successfully!
+[2024-11-05 19:47:23] Connected successfully!
+[2024-11-05 19:47:24] Fetched 8 posts successfully!
+[2024-11-05 19:47:24] Connected successfully!
+[2024-11-05 19:47:24] Fetched 8 posts successfully!
+[2024-11-05 19:47:24] Connected successfully!
+[2024-11-05 19:47:24] Fetched 8 posts successfully!
+[2024-11-05 19:47:24] Connected successfully!
+[2024-11-05 19:47:24] Fetched 8 posts successfully!
+[2024-11-05 19:47:24] Connected successfully!
+[2024-11-05 19:47:24] Fetched 8 posts successfully!
+[2024-11-05 19:47:27] Connected successfully!
+[2024-11-05 19:47:27] Fetched 8 posts successfully!
+[2024-11-05 19:48:48] Connected successfully!
+[2024-11-05 19:48:48] Fetched 8 posts successfully!
+[2024-11-05 19:49:14] Connected successfully!
+[2024-11-05 19:49:14] Fetched 8 posts successfully!
+[2024-11-05 19:49:15] Connected successfully!
+[2024-11-05 19:49:15] Fetched 8 posts successfully!
+[2024-11-05 19:49:15] Connected successfully!
+[2024-11-05 19:49:15] Fetched 8 posts successfully!
+[2024-11-05 19:49:16] Connected successfully!
+[2024-11-05 19:49:16] Fetched 8 posts successfully!
+[2024-11-05 19:49:58] Connected successfully!
+[2024-11-05 19:49:58] Fetched 8 posts successfully!
+[2024-11-05 19:49:59] Connected successfully!
+[2024-11-05 19:49:59] Fetched 8 posts successfully!
+[2024-11-05 19:49:59] Connected successfully!
+[2024-11-05 19:49:59] Fetched 8 posts successfully!
+[2024-11-05 19:49:59] Connected successfully!
+[2024-11-05 19:49:59] Fetched 8 posts successfully!
+[2024-11-05 19:49:59] Connected successfully!
+[2024-11-05 19:49:59] Fetched 8 posts successfully!
+[2024-11-05 19:49:59] Connected successfully!
+[2024-11-05 19:49:59] Fetched 8 posts successfully!
+[2024-11-05 19:50:01] Connected successfully!
+[2024-11-05 19:50:01] Fetched 8 posts successfully!
+[2024-11-05 19:50:01] Connected successfully!
+[2024-11-05 19:50:01] Fetched 8 posts successfully!
+[2024-11-05 19:50:02] Connected successfully!
+[2024-11-05 19:50:02] Fetched 8 posts successfully!
+[2024-11-05 19:50:02] Connected successfully!
+[2024-11-05 19:50:02] Fetched 8 posts successfully!
+[2024-11-05 19:50:02] Connected successfully!
+[2024-11-05 19:50:02] Fetched 8 posts successfully!
+[2024-11-05 19:50:02] Connected successfully!
+[2024-11-05 19:50:02] Fetched 8 posts successfully!
+[2024-11-05 19:50:41] Connected successfully!
+[2024-11-05 19:50:41] Fetched 8 posts successfully!
+[2024-11-05 19:50:42] Connected successfully!
+[2024-11-05 19:50:42] Fetched 8 posts successfully!
+[2024-11-05 19:50:42] Connected successfully!
+[2024-11-05 19:50:42] Fetched 8 posts successfully!
+[2024-11-05 19:50:42] Connected successfully!
+[2024-11-05 19:50:42] Fetched 8 posts successfully!
+[2024-11-05 19:50:43] Connected successfully!
+[2024-11-05 19:50:43] Fetched 8 posts successfully!
+[2024-11-05 19:51:21] Connected successfully!
+[2024-11-05 19:51:21] Fetched 8 posts successfully!
+[2024-11-05 19:51:22] Connected successfully!
+[2024-11-05 19:51:22] Fetched 8 posts successfully!
+[2024-11-05 19:51:22] Connected successfully!
+[2024-11-05 19:51:22] Fetched 8 posts successfully!
+[2024-11-05 19:51:22] Connected successfully!
+[2024-11-05 19:51:22] Fetched 8 posts successfully!
+[2024-11-05 19:51:22] Connected successfully!
+[2024-11-05 19:51:22] Fetched 8 posts successfully!
+[2024-11-05 19:52:33] Connected successfully!
+[2024-11-05 19:52:33] Fetched 8 posts successfully!
+[2024-11-05 19:53:36] Connected successfully!
+[2024-11-05 19:53:36] Fetched 8 posts successfully!
+[2024-11-05 20:02:17] Connected successfully!
+[2024-11-05 20:02:17] Fetched 8 posts successfully!
+[2024-11-05 20:05:03] Connected successfully!
+[2024-11-05 20:05:03] Fetched 8 posts successfully!
+[2024-11-05 20:06:28] Connected successfully!
+[2024-11-05 20:06:28] Fetched 8 posts successfully!
+[2024-11-05 20:08:30] Connected successfully!
+[2024-11-05 20:08:30] Fetched 8 posts successfully!
+[2024-11-05 20:09:03] Connected successfully!
+[2024-11-05 20:09:03] Fetched 9 posts successfully!
+[2024-11-05 20:09:12] Connected successfully!
+[2024-11-05 20:09:12] Fetched 9 posts successfully!
+[2024-11-05 20:09:36] Connected successfully!
+[2024-11-05 20:09:36] Fetched 9 posts successfully!
+[2024-11-05 20:19:21] Connected successfully!
+[2024-11-05 20:19:21] Fetched 9 posts successfully!
+[2024-11-05 20:20:51] Connected successfully!
+[2024-11-05 20:20:51] Fetched 9 posts successfully!
+[2024-11-05 20:20:52] Connected successfully!
+[2024-11-05 20:20:52] Fetched 9 posts successfully!
+[2024-11-05 20:20:52] Connected successfully!
+[2024-11-05 20:20:52] Fetched 9 posts successfully!
+[2024-11-05 20:20:53] Connected successfully!
+[2024-11-05 20:20:53] Fetched 9 posts successfully!
+[2024-11-05 20:21:02] Connected successfully!
+[2024-11-05 20:21:02] Fetched 9 posts successfully!
+[2024-11-05 20:21:07] Connected successfully!
+[2024-11-05 20:21:07] Fetched 9 posts successfully!
+[2024-11-05 20:22:56] Connected successfully!
+[2024-11-05 20:22:56] Fetched 9 posts successfully!
+[2024-11-05 20:25:27] Connected successfully!
+[2024-11-05 20:25:27] Fetched 9 posts successfully!
+[2024-11-05 20:25:57] Connected successfully!
+[2024-11-05 20:25:57] Fetched 9 posts successfully!
+[2024-11-05 20:27:16] Connected successfully!
+[2024-11-05 20:27:16] Fetched 10 posts successfully!
+[2024-11-06 16:31:11] Connection failed: SQLSTATE[HY000] [1049] Unknown database 'NewsManagement'
+[2024-11-06 16:31:11] Trying to reconnect after initialization... Attempt: 1
+[2024-11-06 16:31:12] Database created successfully!<br>
+[2024-11-06 16:31:12] Table 'users' created successfully!<br>
+[2024-11-06 16:31:12] Root user created successfully!<br>
+[2024-11-06 16:31:12] Table 'posts' created successfully!<br>
+[2024-11-06 16:31:12] Connected successfully!
+[2024-11-06 16:31:12] Fetched 0 posts successfully!
+[2024-11-06 16:34:18] Connected successfully!
+[2024-11-06 16:34:18] Fetched 1 posts successfully!
+[2024-11-06 16:34:32] Connected successfully!
+[2024-11-06 16:34:32] Fetched 1 posts successfully!
+[2024-11-06 16:35:33] Connected successfully!
+[2024-11-06 16:35:33] Fetched 1 posts successfully!
+[2024-11-06 16:35:37] Connected successfully!
+[2024-11-06 16:35:37] Fetched 1 posts successfully!
+[2024-11-06 18:42:19] Connected successfully!
+[2024-11-06 18:42:19] Fetched 1 posts successfully!
+[2024-11-06 23:17:44] Connected successfully!
+[2024-11-06 23:17:44] Fetched 2 posts successfully!
+[2024-11-06 23:18:33] Connected successfully!
+[2024-11-06 23:18:33] Fetched 2 posts successfully!
