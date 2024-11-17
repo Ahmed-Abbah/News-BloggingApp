@@ -4,6 +4,15 @@ include_once("environnement.php");
 include_once("utils.php");
 
 try {
+    try {
+        $pdo = new PDO("mysql:host=$host;port=$port;dbname=$dbname", $username, $password);
+        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+        logToConsole(" Initialisation : Connected to the database '$dbname' successfully!<br>");
+    } catch (PDOException $e) {
+        logToConsole("Initialisation : Connection failed: " . $e->getMessage());
+    }
+    
+
     // Select the newly created database
     $pdo->exec("USE $dbname");
 
@@ -14,7 +23,7 @@ try {
         username VARCHAR(50) UNIQUE NOT NULL,
         password VARCHAR(255) NOT NULL -- Password should be stored as a hash
     )");
-    logToConsole("*** Table 'users' created successfully! *** <br>");
+    logToConsole("Table 'users' created successfully!<br>");
 
      // Insert a root user
      $rootEmail = 'admin@admin.com'; // Change to the desired root user email
@@ -27,7 +36,7 @@ try {
          ':username' => $rootUsername,
          ':password' => $rootPassword
      ]);
-     logToConsole(" *** Root user created successfully!<br> ***");
+     logToConsole("Root user created successfully!<br>");
 
      // Create the Categories Table
     $pdo->exec("CREATE TABLE IF NOT EXISTS categories (
@@ -38,7 +47,7 @@ try {
     FOREIGN KEY (user_id) REFERENCES users(id) ON DELETE SET NULL
 )
 ");
-    logToConsole(" *** Table 'Categories' created successfully! *** <br>");
+    logToConsole("Table 'Categories' created successfully!<br>");
  
 
     
@@ -69,8 +78,8 @@ try {
 
     
 
-    logToConsole(" *** Table 'posts' created successfully! *** <br>");
+    logToConsole("Table 'posts' created successfully!<br>");
 
 } catch (PDOException $e) {
-    logToConsole(" *** Error: " . $e->getMessage());
+    logToConsole("Error: " . $e->getMessage());
 }
