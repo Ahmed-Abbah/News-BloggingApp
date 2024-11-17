@@ -52,7 +52,8 @@ include_once("header.php");
 
     <!-- Title -->
     <div class="form-group mb-3">
-      <input type="text" class="form-control" placeholder="postContent" id="content" name="content" required>
+      <textarea type="text" class="form-control" placeholder="postContent" id="content" name="content" required>
+        </textarea>
     </div>
 
     
@@ -101,7 +102,6 @@ include_once("header.php");
 
     </div>
 
-    <!-- Active -->
     <!-- Place the first <script> tag in your HTML's <head> -->
 <script src="https://cdn.tiny.cloud/1/6aelg498mkdgnkjt5holm4e2oa1ale8phup70zczxn0tuv9g/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
 
@@ -131,6 +131,7 @@ include_once("header.php");
     importword_converter_options: { 'formatting': { 'styles': 'inline', 'resets': 'inline',	'defaults': 'inline', } },
   });
 </script>
+
 
 
     <!-- Submit Button -->
