@@ -1,7 +1,7 @@
 <?php
 // Database connection details
 $host = 'localhost';
-$port = 3307; // specify your MySQL port
-$dbname = 'NewsManagement';
-$username = 'root';
-$password = 'rootpassword';
+$port = 3306; // specify your MySQL port
+$dbname = 'cp2456191p32_Newsdb';
+$username = 'cp2456191p32_root';
+$password = 'wp2k+5MX6}P%';

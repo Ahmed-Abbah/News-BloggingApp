@@ -50,7 +50,7 @@ include_once("header.php");
     </div>
     
 
-    <!-- Title -->
+    <!-- Content -->
     <div class="form-group mb-3">
       <input type="text" class="form-control" placeholder="postContent" id="content" name="content" required>
     </div>
@@ -103,7 +103,7 @@ include_once("header.php");
 
     <!-- Active -->
     <!-- Place the first <script> tag in your HTML's <head> -->
-<script src="https://cdn.tiny.cloud/1/6aelg498mkdgnkjt5holm4e2oa1ale8phup70zczxn0tuv9g/tinymce/7/tinymce.min.js" referrerpolicy="origin"></script>
+<script src="https://cdn.tiny.cloud/1/6aelg498mkdgnkjt5holm4e2oa1ale8phup70zczxn0tuv9g/tinymce/7/tinymce.min.js" referrerpolicy="origicript>
 
 <!-- Place the following <script> and <textarea> tags your HTML's <body> -->
 <script>
