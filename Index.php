@@ -1,6 +1,8 @@
 
 
-        <!-- Top News Start-->
+<?php header("Location: /NewsManagementProject/views/new_post_view.php"); ?>
+
+    <!-- Top News Start-->
         <div class="top-news">
             <div class="container">
                 <div class="row">
