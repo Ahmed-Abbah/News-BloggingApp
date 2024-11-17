@@ -4,21 +4,6 @@ include_once("environnement.php");
 include_once("utils.php");
 
 try {
-    // Connect to MySQL without selecting a database initially
-    $pdo = new PDO("mysql:host=$host;port=$port", $username, $password);
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-    // Drop the database if it exists, then recreate it 
-    // SOS : This is for dev env purposes
-    // $pdo->exec("DROP DATABASE IF EXISTS $dbname");
-
-    // logToConsole("Database '$dbname' dropped successfully!<br>");
-
-    
-        $pdo->exec("CREATE DATABASE $dbname");
-        logToConsole("Database created successfully!<br>");
-    
-
     // Select the newly created database
     $pdo->exec("USE $dbname");
 
